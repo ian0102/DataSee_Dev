@@ -42,6 +42,14 @@ window['powerbi'] = {
     createEnumType: function(description) { return description; }
 };
 
+import {} from 'node';
+import {} from 'requirejs';
+import {} from 'sinon';
+import {} from 'sinon-chai';
+import {} from 'mocha';
+import {} from 'chai';
+
+
 import * as $ from 'jquery';
 import * as sinon from 'sinon';
 import { expect } from 'chai';
